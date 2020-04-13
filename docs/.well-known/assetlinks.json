@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.payly",
+    "sha256_cert_fingerprints": ["02:FE:9D:D0:72:90:13:87:B2:5D:8B:45:77:3B:C7:81:01:35:55:E7:3E:92:8A:97:4A:DE:8C:B0:72:9C:BB:83"]
+  }
+}]
