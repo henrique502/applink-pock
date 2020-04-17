@@ -1,14 +1,39 @@
 {
-  "applinks": {
-      "apps": [],
-      "details": [
-           {
-             "appID": "payly/id1441641513",
-             "paths": [ "/checkout/*" ]
-           }
-       ]
+   "activitycontinuation":{
+      "apps":[
+         "6TQ4AA2G76.com.payly.homolog",
+         "AFQ2QM4BJ7.com.payly.beta",
+         "AFQ2QM4BJ7.com.payly.prod"
+      ]
    },
-   "webcredentials": {
-      "apps": [ "payly/id1441641513" ]
+   "webcredentials":{
+      "apps":[
+         "6TQ4AA2G76.com.payly.homolog",
+         "AFQ2QM4BJ7.com.payly.beta",
+         "AFQ2QM4BJ7.com.payly.prod"
+      ]
+   },
+   "applinks":{
+      "apps":[],
+      "details":[
+         {
+            "appID":"6TQ4AA2G76.com.payly.homolog",
+            "paths":[
+              "/checkout/*"
+            ]
+         },
+         {
+            "appID":"AFQ2QM4BJ7.com.payly.beta",
+            "paths":[
+              "/checkout/*"
+            ]
+         },
+         {
+            "appID":"AFQ2QM4BJ7.com.payly.prod",
+            "paths":[
+              "/checkout/*"
+            ]
+         }
+      ]
    }
 }
